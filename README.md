@@ -48,7 +48,7 @@ The following **additional** features are implemented:
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 
-A problem that I encountered was understanding the purpose of each language and their respective roles. After implementing the “guess” and lighting up a button function, 1) I could not see the yellow and pink buttons light up 2) I was unable to see the user’s guess in the console. At first, I had thought, the two were directly aligned with each other but then I went back to understand the purposes of the three languages used in this prework. From there I was easily able to spot my syntax error. 
+      A problem that I encountered was understanding the purpose of each language and their respective roles. After implementing the “guess” and lighting up a             button function, 1) I could not see the yellow and pink buttons light up 2) I was unable to see the user’s guess in the console. At first, I had thought, the       two were directly aligned with each other but then I went back to understand the purposes of the three languages used in this prework. From there I was easily       able to spot my syntax error. 
       
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
    
