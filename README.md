@@ -47,6 +47,7 @@ The following **additional** features are implemented:
 [YOUR ANSWER HERE]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
+
 [A problem that I encountered was understanding the purpose of each language and their respective roles. After implementing the “guess” and lighting up a button function:
         a) I could not see the yellow and pink buttons light up 
         b) I was unable to see the user’s guess in the console. 
@@ -54,7 +55,8 @@ The following **additional** features are implemented:
 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-    A couple of questions that I have are: 
+   
+   A couple of questions that I have are: 
         a) If I could complete this project without react js or the other technologies, what are the purposes for them? 
         b) Would I be able to open this game on any browser or even on my mobile device. Would I have to write different code to account for the sizes of other                 devices? 
         c) How would I go about giving other people access to my website?
@@ -62,6 +64,7 @@ The following **additional** features are implemented:
 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
+    
     While completing the prework, I noticed how this game, in a sense, resembles music interval ear training. Musical interval ear training is an exercise in which     you are played two musical notes in a sequence, and your goal is to identify the space/interval between the two notes. The light and sound game doesn’t             necessarily have equal spacing between the sounds of each button, but I could implement more controls to cover the different pitches on a scale. In the end, I       would have created a helpful tool for musicians, including myself, that would aid me in identifying pitches intervals, making better judgments in music, and         increasing my ability to hear and identify specific musical notes.
 
 
