@@ -67,7 +67,7 @@ The following **additional** features are implemented:
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://www.loom.com/share/56447252840e40efabb93865ee3dab3b)
 
 
 ## License
