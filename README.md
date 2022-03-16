@@ -48,12 +48,9 @@ The following **additional** features are implemented:
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 
-        A problem that I encountered was understanding the purpose of each language and their respective roles. After implementing the “guess” and lighting up a                button function:
-        
+        A problem that I encountered was understanding the purpose of each language and their respective roles. After implementing the “guess” and lighting up a                button function
         a) I could not see the yellow and pink buttons light up 
-        
         b) I was unable to see the user’s guess in the console. 
-        
          At first, I had thought, the two issues were directly aligned with each other but then I went back to understand the purposes of the three languages used              in this prework. Expanding my knowledge on the purpose of these languages allowed me to quickly spot out where the problem in my code was located. After                doing so, I realized that issue "a" was located in my CSS file and issue "b" was located in my JavaScript file. 
 
 
