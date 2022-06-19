@@ -17,7 +17,6 @@ Link to project: (https://glitch.com/~light-and-sound-memory-game-prework)
 
 ## Video Walkthrough (GIF)
 ![](http://g.recordit.co/Y2SgUFCGq9.gif)
-![](http://g.recordit.co/95WEzEJ5O8.gif)
 ![](http://g.recordit.co/vuOvlc4SVL.gif)
 ![](http://g.recordit.co/Hs9zQCt4Yl.gif)
 
